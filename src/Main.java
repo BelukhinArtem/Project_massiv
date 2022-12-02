@@ -7,6 +7,7 @@ public class Main {
 
             if (array[i] % 2 == 0) {
                 System.out.println("Number: " + array[i]);
+                System.out.println("Number: " + array[i] + " 1");
             }
         }
     }
